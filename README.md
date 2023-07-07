@@ -2,11 +2,11 @@
 
 Regras de Negócio
 
-[] Usuário pode adicionar uma task;
-[] Usuário pode remover uma task;
-[] Usuário deve estar autenticado;
-[] Usuário pode alterar uma task;
-[] Verificar se a task já existe;
+[ ] Usuário pode adicionar uma task;
+[ ] Usuário pode remover uma task;
+[ ] Usuário deve estar autenticado;
+[ ] Usuário pode alterar uma task;
+[ ] Verificar se a task já existe;
 
 # Planejamento de API
 
